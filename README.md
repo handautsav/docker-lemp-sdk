@@ -1,12 +1,5 @@
 # docker-lemp-sdk
 
-TODO: Write a project description
+Docker Image build for LEMP environment. It is based on GNU/Linux, Nginx, MariaDB, PHP, Redis, ElasticSearch, Beanstalkd.
 
-## Installation
-
-TODO: Describe the installation process
-
-## Usage
-
-TODO: Write usage instructions
 
